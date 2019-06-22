@@ -1,4 +1,3 @@
-#FROM arm64v7/ubuntu:18.04 AS base
 FROM arm32v7/ubuntu:18.04 AS base
 
 ENV DEBIAN_FRONTEND=noninteractive
